@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinca\\Source\\Repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {}
+    "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinca\\Source\\Repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {
+    "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinca\\Source\\Repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectUniqueName": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
         "projectName": "SingletonPattern",
-        "projectPath": "C:\\Users\\vinca\\Source\\Repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectPath": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\vinca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinca\\Source\\Repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\obj\\",
+        "outputPath": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
