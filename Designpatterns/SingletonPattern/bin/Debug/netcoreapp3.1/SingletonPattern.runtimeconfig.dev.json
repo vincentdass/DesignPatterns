@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\vinca\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\vinca\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\vinca\\.nuget\\packages"
     ]
   }
 }

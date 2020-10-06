@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OSS\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {}
+    "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {}
   },
   "projects": {
-    "D:\\OSS\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {
+    "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OSS\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectUniqueName": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
         "projectName": "SingletonPattern",
-        "projectPath": "D:\\OSS\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectPath": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\vinca\\.nuget\\packages\\",
-        "outputPath": "D:\\OSS\\DesignPatterns\\Designpatterns\\SingletonPattern\\obj\\",
+        "outputPath": "C:\\Users\\vinca\\source\\repos\\vincentdass\\DesignPatterns\\Designpatterns\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\vinca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -25,10 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://msblox.pkgs.visualstudio.com/_packaging/AzureGenevaMonitoring/nuget/v3/index.json": {},
-          "https://skype.pkgs.visualstudio.com/_packaging/csc/nuget/v3/index.json": {},
-          "https://skype.pkgs.visualstudio.com/_packaging/tps/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
